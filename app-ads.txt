@@ -1,0 +1,2 @@
+# AdMob hesabındaki yayıncı kimliğini (pub-XXXXXXXXXXXXXXXX) yazıp bu satırın başındaki # işaretini kaldır:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
